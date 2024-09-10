@@ -1,0 +1,197 @@
+h1 {
+  text-decoration: underline;
+}
+body {
+  background-color: #800000;
+}
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 25px;
+}
+.title p {
+  font-size: 40px;
+}
+.ima {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 8px solid #dad4b5;
+  background: #982b1c;
+  width: 600px;
+}
+.ima img {
+  height: 300px;
+  width: 600px;
+}
+.Inmigración {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 25px;
+}
+.Inmigración p {
+  font-size: 40px;
+  font-weight: bold;
+}
+.inf {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+}
+.inf img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin-right: 10px;
+}
+.inf p {
+  font-size: 30px;
+}
+.Barrio {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 25px;
+}
+.Barrio p {
+  font-size: 40px;
+  font-weight: bold;
+}
+.inf2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+}
+.inf2 img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 60px;
+  width: 250px;
+}
+.inf2 p {
+  font-size: 40px;
+  font-weight: bold;
+}
+.inf3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+}
+.inf3 img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 60px;
+}
+.inf3 p {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.Inte {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 25px;
+}
+.Inte p {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.inf4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+}
+.inf4 img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 60px;
+  width: 200px;
+}
+.inf4 p {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.Actual {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 25px;
+}
+.Actual p {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.Gracias {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 25px;
+}
+.Gracias p {
+  font-size: 40px;
+  font-weight: bold;
+}
+.inf5 img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 60px;
+}
+.Nombre {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  background: #982b1c;
+  border: 8px solid #dad4b5;
+  margin: 25px;
+}
+.Nombre p {
+  font-size: 40px;
+  font-weight: bold;
+}
